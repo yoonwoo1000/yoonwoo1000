@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-System.out.println(무엇일까)
+System.out.println(Hello, World!)
 
 <!---
 yoonwoo1000/yoonwoo1000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
